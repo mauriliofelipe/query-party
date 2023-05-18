@@ -1,0 +1,15 @@
+Este arquivo é uma aventura cheia de desafios para testar e aprimorar suas habilidades com o QueryParty. Boa sorte!
+
+1. Quais são os alunos que se inscreveram no curso "A arte de criar bugs"?
+2. Quantos alunos estão matriculados em cada nível de curso?
+3. Quais são os cursos com a descrição mais longa?
+4. Quais são os alunos que se matricularam em mais de um curso?
+5. Quais são os cursos que possuem a palavra "rir" em seu título?
+6. Qual é a duração média dos cursos?
+7. Quais são os alunos que se matricularam em um curso nos últimos 7 dias?
+8. Quais são os cursos mais longos e mais curtos?
+9. Quais são os alunos que têm o mesmo nome de um famoso cientista ou empreendedor?
+10. Quais são os cursos com títulos mais divertidos?
+11. Crie um novo curso de programação para alienígenas.
+12. Edite a descrição do curso "A arte de criar bugs" para incluir um aviso sobre o risco de atrair insetos.
+13. Remova todos os registros de matrícula associados ao aluno "Elon Musk" na tabela "enrollments". Dessa forma, Elon poderá embarcar em sua jornada interplanetária sem preocupações com matrículas de cursos terrestres.
