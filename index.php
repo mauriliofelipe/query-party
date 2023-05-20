@@ -35,7 +35,7 @@ $searchMoreCourses = (new QueryBuilder('students as s'))
  */
 
  $freshman = (new QueryBuilder('students'))
-     ->insert(['id' => 7, 'name' => 'Mark Zuckerberg', 'email' => 'mark.zuckerberg@snapchat.com'])
+     ->insert(['name' => 'Mark Zuckerberg', 'email' => 'mark.zuckerberg@snapchat.com'])
      ->execute();
  
 /**
