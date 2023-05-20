@@ -15,7 +15,3 @@ Dentro do arquivo [index.php](https://github.com/mauriliofelipe/query-party/blob
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests, relatar problemas ou solicitar novos recursos. 💡👋
-
-## Contato
-
-Para qualquer dúvida ou suporte adicional, [entre em contato](mailto:maurilio.felipe@outlook.com) ou [abra uma issue](https://github.com/mauriliofelipe/query-party/issues) no repositório. 📧💻
